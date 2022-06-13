@@ -10,3 +10,5 @@ const port = process.env.PORT || 5050
 server.listen(port, () => {
     console.log(`Server is listening at port ${port}`);
 });
+
+module.exports = server;
