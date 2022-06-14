@@ -1,3 +1,5 @@
+//this server file is not in use for this project but will be used for further development
+
 require('dotenv').config();
 const express = require('express');
 const server = express();
